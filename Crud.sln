@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33027.164
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "Crud\Crud.csproj", "{4C72A1AE-56F6-41EE-8724-94E363322C73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleDeContatos", "..\ControledeDeContatos\ControledeDeContatos\ControleDeContatos.csproj", "{583D6AC8-70B2-499E-B3D3-644310E4CB95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4C72A1AE-56F6-41EE-8724-94E363322C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C72A1AE-56F6-41EE-8724-94E363322C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C72A1AE-56F6-41EE-8724-94E363322C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583D6AC8-70B2-499E-B3D3-644310E4CB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583D6AC8-70B2-499E-B3D3-644310E4CB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583D6AC8-70B2-499E-B3D3-644310E4CB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583D6AC8-70B2-499E-B3D3-644310E4CB95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
